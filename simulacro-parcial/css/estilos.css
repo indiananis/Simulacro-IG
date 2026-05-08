@@ -1,0 +1,12 @@
+body {background-image: url("../img/fondo.png");} /* no lograba adjuntar la imagen, use IA para resolver el problema */
+header {font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;}
+main { font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;}
+footer, nav { font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;}
+div { background-color: wheat;}
+nav,header, footer {background-color: rgb(165, 165, 241);}
